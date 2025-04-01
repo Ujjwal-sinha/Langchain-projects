@@ -10,6 +10,7 @@ wikipedia
 langchain-text-splitters
 requests
 langchain-openai
-chromadb
+langchain_chroma
 sentence_transformers
 langchain_huggingface
+faiss-cpu
